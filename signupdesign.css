@@ -1,0 +1,65 @@
+body{
+height :900px;
+background-image: linear-gradient( to top right,purple,pink);
+background-color:green;
+}
+.container{
+border : 1px solid black;
+border-radius:7px;
+box-shadow:5px 10px 8px 10px rgba(0,0,0,0.4);
+width :400px;
+height :600px;
+margin-left:auto;
+margin-right:auto;
+margin-top:200px;
+background :rgba(255,255,255,0.5);
+color:white;
+font-size:22px;
+text-align :center;
+}
+.ipstyl{
+width :200px;
+height:30px;
+border:1px solid black;
+border-radius:8px;
+}
+.ipstyl:hover{
+width:250px;
+height:40px;
+}
+.btn{
+height:50px;
+width:150px;
+margin-left:800px;
+margin-top:75px;
+font-size:20px;
+border-radius:10px;
+}
+.btn:hover{
+background:black;
+color:white;
+cursor:pointer;
+height:70px;
+width:170px;
+}
+h3{
+color:black;
+}
+p{
+font-size:17px;
+color:black;
+}
+u:hover{
+color : blue;
+font-size:18px;
+}
+.submit{
+background:black;
+color :white;
+width:100px;
+height:50px;
+}
+.submit:hover{
+width:110px;
+height:55px;
+}
